@@ -1,0 +1,1 @@
+This is Hanna's first git project! (If you exclude CS50).
